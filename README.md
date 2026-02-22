@@ -162,7 +162,7 @@ If this saved you time, a star helps others find it.
 
 <br>
 
-Built by the community ❤️ Contributions welcome.
+❤️ Contributions welcome.
 
 </div>
 
