@@ -171,3 +171,17 @@ If this saved you time, a star helps others find it.
 Built by the community ❤️ Contributions welcome.
 
 </div>
+
+
+!-- Shields Configuration -->
+
+[contributing-url]: ./CONTRIBUTING.md
+[contributors-url]: ./graphs/contributors
+[forks-url]: ./network/members
+[stars-url]: ./stargazers
+[issues-url]: ./issues
+[closed-issues-url]: ./issues?q=is%3Aissue+is%3Aclosed
+[prs-url]: ./pulls
+[closed-prs-url]: ./pulls?q=is%3Apr+is%3Aclosed
+[license-url]: ./LICENSE
+[discord-url]: https://discord.com/invite/HP2YPGSrWU
