@@ -3,13 +3,7 @@
 <div align="left">
 
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-ff69b4.svg?style=flat&logo=git&logoColor=white)][contributing-url]
-[![Contributors](https://img.shields.io/github/contributors/aditsuru/structured-ai-prompt?color=2b9348&style=flat)][contributors-url]
-[![Forks](https://img.shields.io/github/forks/aditsuru/structured-ai-prompt?style=flat)][forks-url]
 [![Stars](https://img.shields.io/github/stars/aditsuru/structured-ai-prompt?style=flat)][stars-url]
-[![Open Issues](https://img.shields.io/github/issues/aditsuru/structured-ai-prompt?style=flat)][issues-url]
-[![Closed Issues](https://img.shields.io/github/issues-closed/aditsuru/structured-ai-prompt?style=flat)][closed-issues-url]
-[![Open PRs](https://img.shields.io/github/issues-pr/aditsuru/structured-ai-prompt?style=flat)][prs-url]
-[![Closed PRs](https://img.shields.io/github/issues-pr-closed/aditsuru/structured-ai-prompt?style=flat)][closed-prs-url]
 [![License](https://img.shields.io/github/license/aditsuru/structured-ai-prompt?color=2b9348&style=flat)][license-url]
 [![Discord](https://img.shields.io/discord/1313767817996402698?style=flat&logo=discord&logoColor=white&label=Discord&color=5865F2)][discord-url]
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aditsuru.structured-ai-prompt)
@@ -87,7 +81,7 @@ FORMAT:
 </conclusion>
 
 <follow-up-question> 
-One clarifying question to resolve ambiguity or gather missing context] 
+[One clarifying question to resolve ambiguity or gather missing context] 
 </follow-up-question>
 
 </answer>
@@ -173,15 +167,9 @@ Built by the community ❤️ Contributions welcome.
 </div>
 
 
-!-- Shields Configuration -->
+<!-- Shields Configuration -->
 
-[contributing-url]: ./CONTRIBUTING.md
-[contributors-url]: ./graphs/contributors
-[forks-url]: ./network/members
-[stars-url]: ./stargazers
-[issues-url]: ./issues
-[closed-issues-url]: ./issues?q=is%3Aissue+is%3Aclosed
-[prs-url]: ./pulls
-[closed-prs-url]: ./pulls?q=is%3Apr+is%3Aclosed
-[license-url]: ./LICENSE
+[stars-url]: https://github.com/aditsuru/structured-ai-prompt/stargazers
+[license-url]: https://github.com/aditsuru/structured-ai-prompt/blob/main/LICENSE
 [discord-url]: https://discord.com/invite/HP2YPGSrWU
+[contributing-url]: https://github.com/aditsuru/structured-ai-prompt/blob/main/CONTRIBUTING.md
